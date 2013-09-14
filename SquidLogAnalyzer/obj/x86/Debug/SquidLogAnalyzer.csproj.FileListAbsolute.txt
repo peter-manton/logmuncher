@@ -1,0 +1,15 @@
+C:\Users\popmanto\AppData\Local\Temporary Projects\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.exe
+C:\Users\popmanto\AppData\Local\Temporary Projects\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.pdb
+C:\Users\popmanto\AppData\Local\Temporary Projects\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.exe
+C:\Users\popmanto\AppData\Local\Temporary Projects\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.pdb
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.exe
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.pdb
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.exe
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.pdb
+C:\Users\limited\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.exe
+C:\Users\limited\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.pdb
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\bin\Debug\MySql.Data.dll
+C:\Users\popmanto\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\limited\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.exe
+C:\Users\limited\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\bin\Debug\SquidLogAnalyzer.pdb
+C:\Users\limited\Desktop\serverflux_squidloganalyzer\SquidLogAnalyzer\SquidLogAnalyzer\obj\x86\Debug\SquidLogAnalyzer.csprojResolveAssemblyReference.cache

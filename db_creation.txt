@@ -1,0 +1,14 @@
+CREATE TABLE `logmuncher`.`log_collection` (
+  `ID` INT NOT NULL AUTO_INCREMENT,
+  `DateStamp` DATETIME NULL,
+  `Duration` INT NULL,
+  `ClientAddress` VARCHAR(100) NULL,
+  `SquidReturnCode` VARCHAR(100) NULL,
+  `HTTPReturnCode` INT NULL,
+  `Bytes` VARCHAR(45) NULL,
+  `RequestMethod` VARCHAR(100) NULL,
+  `URL` VARCHAR(2000) NULL,
+  `RFC931` VARCHAR(100) NULL,
+  `HierarchyCode` VARCHAR(45) NULL,
+  `Type` VARCHAR(100) NULL,
+  PRIMARY KEY (`ID`));

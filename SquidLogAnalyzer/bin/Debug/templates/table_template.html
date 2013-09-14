@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>Top URL's</title>
+
+<link rel="stylesheet" href="stylesheets/style.css"  media="screen" title="no title" >
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+ $(function() {
+		/* For zebra striping */
+        $("table tr:nth-child(odd)").addClass("odd-row");
+		/* For cell text alignment */
+		$("table td:first-child, table th:first-child").addClass("first");
+		/* For removing the last border */
+		$("table td:last-child, table th:last-child").addClass("last");
+});
+</script>
+
+</head>
+
+<body>
+
+<div id="content">
+
+    <table cellspacing="0">
+    <tr><th>Popularity</th><th>URL</th><th>Status Code</th></tr>
+    <tr><td>1</td><td>http://www.google.com</td><td>200</td></tr>
+    <tr><td>2</td><td>http://www.example.com</td><td>200</td></tr>
+    <tr><td>3</td><td>http://www.google.co.uk</td><td>503</td></tr>
+    <tr><td>4</td><td>http://www.test.com</td><td>200</td></tr>
+    <tr><td>5</td><td>http://www.msn.co.uk</td><td>404</td></tr>
+    </table>
+
+</div>
+
+</body>
+
+</html>
